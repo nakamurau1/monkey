@@ -12,7 +12,7 @@ func TestNextToken(t *testing.T) {
 	input := `let five = 5;
 let ten = 10;
 
-let add ＝ fn(x, y) {
+let add = fn(x, y) {
 	x + y;
 };
 
